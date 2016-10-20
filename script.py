@@ -6,10 +6,6 @@ import subprocess
 
 url = "URL-TO-MONITOR"
 
-# open stored hash
-with open('hash', 'r') as myFile:
-    oldHash = myFile.read().replace('\n', '')
-
 # curl url
 storage = StringIO()
 c = pycurl.Curl()
