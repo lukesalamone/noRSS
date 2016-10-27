@@ -1,4 +1,6 @@
 # noRSS
+![logo](https://raw.githubusercontent.com/lukesalamone/noRSS/master/logo.png)
+
 These scripts allow you to closely monitor web pages for changes. This is useful for a wide variety of applications where RSS feeds are unavailable or insufficient for your needs. noRSS provides a simple solution, which additionally preserves the privacy of your email address.
 
 ## Configuration
